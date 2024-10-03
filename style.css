@@ -27,7 +27,7 @@ body {
 
 .materia {  
     border-radius: 10px;
-    border: solid 2px rgb(241, 239, 239);
+    border: solid 2px rgb(12, 12, 12);
     margin-left: 10px;
     width: 100px;
     display: flex;
